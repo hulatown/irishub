@@ -1,4 +1,4 @@
----
+RequirementRequirement---
 order: 2
 ---
 
@@ -26,7 +26,7 @@ To earn more delegation for your validator, you are advised to:
 
 ### What are hardware requirements
 
-The minimum hardware requirements are mentioned here: [Hardware Requeirment](../daemon/intro.md#hardware-requeirment)
+The minimum hardware requirements are mentioned here: [Hardware Requirement](../daemon/intro.md#hardware-requirement)
 
 ### What are the different states a validator can be in
 
